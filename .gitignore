@@ -1,0 +1,5 @@
+venv
+.idea
+__pycache__
+winvenv
+Portal_backend/settings.py
